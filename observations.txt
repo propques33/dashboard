@@ -1,0 +1,3 @@
+We are storing assigned to when the task is incomplete and it's a name. But when the task is completed we are storing their email address okay.
+It should be uniform if we want to add a visualisation for the efficiency of a worker  
+It will also help in storing average working hours !!!
